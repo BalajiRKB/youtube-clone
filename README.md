@@ -1,4 +1,1 @@
 # youtube-clone
-
-Hi
-Hello
